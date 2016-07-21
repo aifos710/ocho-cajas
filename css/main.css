@@ -1,0 +1,21 @@
+div{
+    width:100px;
+    height:100px;
+    background-color: gray;
+    border: 1px solid black;
+    margin:7px;
+}
+
+.mama{
+	height:110px ;
+	width:360px ;
+	padding:10px;
+}
+
+.hijo{
+	display: inline-block;
+}
+
+.dos{
+	display:inline-block;
+}
